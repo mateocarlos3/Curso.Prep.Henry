@@ -31,6 +31,7 @@ function incrementarPorUno(array) {
   }
   return array;
 }
+// var array [1, 2, 3, 4]
 
 
 function agregarItemAlFinalDelArray(array, elemento) {
@@ -68,11 +69,11 @@ function arrayContiene(array, elemento) {
   // Tu código:
   for (var i = 0; i < array.length; i++) {
     if (array[i] === elemento) {
-      return true
+      return true;
     }
   }
-  return false
-}
+  return false;
+} 
 
 
 function agregarNumeros(numeros) {
@@ -202,7 +203,7 @@ function mayorACien(array) {
   var nuevoArray = [];
   for(var i = 0; i < array.length; i++) {
     if(array[i] > 100) {
-      nuevoArray.push(array[i])
+      nuevoArray.push(array[i]);
     }
   }
   return nuevoArray;
@@ -210,7 +211,7 @@ function mayorACien(array) {
 
 
 function breakStatement(numero) {
-  //Iterar en un bucle aumentando en 2 el numero recibido hasta un límite de 10 veces.
+  //Iterar en un bucle aumenta ndo en 2 el numero recibidohasta un límite de 10 veces.
   //Guardar cada nuevo valor en un array. 
   //Devolver el array
   //Si en algún momento el valor de la suma y la cantidad de iteraciones coinciden, debe interrumpirse la ejecución y 
