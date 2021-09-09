@@ -1,0 +1,111 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+#Titulo{
+    background-color: rgb(94, 94, 47);
+    font-size: 50px;
+    font-style: inherit;
+    color: white;
+    width: 800px;
+}
+
+h2{
+    font-size: 30px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+
+#Descripcion{
+    background-color: lightgoldenrodyellow;
+    font-size: 25px;
+    font-style: unset;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 70px;
+}
+
+#Educacion{
+    background-color: lightgoldenrodyellow;
+    border-width: 2px;
+    font-size: 25px;
+    font-style: unset;
+    border-color: black;
+    border-style: solid;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 70px;
+}
+
+#Trabajos{
+    background-color: lightgoldenrodyellow;
+    border-width: 2px;
+    font-size: 25px;
+    font-style: unset;
+    border-color: black;
+    border-style: solid;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 70px;
+}
+
+#Habilidades{
+    background-color: lightgoldenrodyellow;
+    border-width: 2px;
+    font-size: 25px;
+    font-style: unset;
+    border-color: black;
+    border-style: solid;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 70px;
+}
+
+#Hobbies{
+    background-color: lightgoldenrodyellow;
+    border-width: 2px;
+    font-size: 25px;
+    font-style: unset;
+    border-color: black;
+    border-style: solid;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 70px;
+}
+
+#Henry{
+    background-color: lightgreen;
+    border-width: 2px;
+    font-size: 15px;
+    font-style: unset;
+    border-color: black;
+    border-style: solid;
+    width: 580px;
+    height: 150px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 80px;
+}
+
+h3{
+    font-size: px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+
+img{
+    width: 150px;
+    position: absolute;
+    right: 1300px;
+    top: 204px;
+}
